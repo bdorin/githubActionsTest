@@ -1,3 +1,5 @@
+name: logLevel, tags, and environment
+
 on:
   workflow_dispatch:
     inputs:
