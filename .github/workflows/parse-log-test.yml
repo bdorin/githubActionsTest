@@ -1,4 +1,4 @@
-name: Parse unity logs
+name: Parse unity logs test
 run-name: ${{ inputs.log-path }}
 on:
   workflow_dispatch:
