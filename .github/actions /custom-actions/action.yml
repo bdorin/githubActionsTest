@@ -1,4 +1,4 @@
-name: "Parse Logs"
+name: "Parse logs"
 description: "Parses Unity Editor logs for errors and warnings."
 inputs:
   log-path:
