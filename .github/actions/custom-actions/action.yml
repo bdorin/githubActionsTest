@@ -23,5 +23,5 @@ runs:
 
     - name: Parse Logs
       run: |
-        python .github/actions/my-custom-action/parser.py --log-path ${{ inputs.log-path }}
+        python .github/actions/custom-action/parser.py --log-path ${{ inputs.log-path }}
       shell: bash
